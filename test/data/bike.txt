@@ -1,0 +1,7 @@
+compound {
+    compound {
+        circle 1.0
+        circle 2.0
+    }
+    square 5.0
+}
